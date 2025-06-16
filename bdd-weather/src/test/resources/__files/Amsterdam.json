@@ -1,0 +1,47 @@
+{
+  "location": {
+    "name": "Amsterdam",
+    "region": "North Holland",
+    "country": "Netherlands",
+    "lat": 52.374,
+    "lon": 4.8897,
+    "tz_id": "Europe/Amsterdam",
+    "localtime_epoch": 1749623007,
+    "localtime": "2025-06-11 08:23"
+  },
+  "current": {
+    "last_updated_epoch": 1749622500,
+    "last_updated": "2025-06-11 08:15",
+    "temp_c": 13.0,
+    "temp_f": 55.4,
+    "is_day": 1,
+    "condition": {
+      "text": "Sunny",
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+      "code": 1000
+    },
+    "wind_mph": 3.4,
+    "wind_kph": 5.4,
+    "wind_degree": 24,
+    "wind_dir": "NNE",
+    "pressure_mb": 1022.0,
+    "pressure_in": 30.18,
+    "precip_mm": 0.0,
+    "precip_in": 0.0,
+    "humidity": 88,
+    "cloud": 25,
+    "feelslike_c": 13.1,
+    "feelslike_f": 55.5,
+    "windchill_c": 14.8,
+    "windchill_f": 58.6,
+    "heatindex_c": 14.5,
+    "heatindex_f": 58.1,
+    "dewpoint_c": 8.8,
+    "dewpoint_f": 47.8,
+    "vis_km": 10.0,
+    "vis_miles": 6.0,
+    "uv": 0.8,
+    "gust_mph": 3.9,
+    "gust_kph": 6.3
+  }
+}
