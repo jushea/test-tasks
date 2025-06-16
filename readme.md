@@ -1,0 +1,1 @@
+run gradle cucumberCli for BDD tests

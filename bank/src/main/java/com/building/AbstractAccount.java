@@ -30,6 +30,7 @@ public class AbstractAccount implements Account{
     public void deposit(Double sum) {
         if (sum > 0) {
             balance += sum;
+            System.out.println("The account has been replenished ");
         } else {
             throw new IllegalArgumentException("Сумма должна быть положительной");
         }
